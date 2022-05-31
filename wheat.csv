@@ -1,0 +1,1038 @@
+Domain Code,Domain,Area Code (FAO),Area,Element Code,Element,Item Code,Item,Year Code,Year,Unit,Value,Flag,Flag Description
+FBS,Food Balances (2010-),2,Afghanistan,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,3613,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),2,Afghanistan,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,4890,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),2,Afghanistan,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,3419,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),2,Afghanistan,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,2526,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),2,Afghanistan,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),2,Afghanistan,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),3,Albania,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,240,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),3,Albania,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,233,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),3,Albania,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,267,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),3,Albania,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,310,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),3,Albania,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,2,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),3,Albania,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,4,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),4,Algeria,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,3981,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),4,Algeria,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,3877,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),4,Algeria,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,8434,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),4,Algeria,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,6788,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),4,Algeria,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,2,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),4,Algeria,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,4,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),7,Angola,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,2,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),7,Angola,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,2,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),7,Angola,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1199,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),7,Angola,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,1089,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),7,Angola,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,15,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),7,Angola,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),8,Antigua and Barbuda,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),8,Antigua and Barbuda,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),8,Antigua and Barbuda,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,9,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),8,Antigua and Barbuda,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,8,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),8,Antigua and Barbuda,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),8,Antigua and Barbuda,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),9,Argentina,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,18542,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),9,Argentina,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,19485,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),9,Argentina,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,15,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),9,Argentina,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,12,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),9,Argentina,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,12502,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),9,Argentina,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,11366,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),1,Armenia,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,187,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),1,Armenia,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,113,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),1,Armenia,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,376,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),1,Armenia,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,287,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),1,Armenia,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),1,Armenia,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,1,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),10,Australia,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,20941,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),10,Australia,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,17598,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),10,Australia,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,278,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),10,Australia,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,795,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),10,Australia,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,12723,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),10,Australia,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,9884,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),11,Austria,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,1371,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),11,Austria,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,1597,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),11,Austria,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1388,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),11,Austria,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,1407,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),11,Austria,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1088,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),11,Austria,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,1143,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),52,Azerbaijan,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,1992,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),52,Azerbaijan,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,2114,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),52,Azerbaijan,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1128,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),52,Azerbaijan,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,1640,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),52,Azerbaijan,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,3,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),52,Azerbaijan,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,4,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),12,Bahamas,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,16,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),12,Bahamas,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,17,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),12,Bahamas,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),12,Bahamas,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),16,Bangladesh,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,1099,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),16,Bangladesh,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,1017,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),16,Bangladesh,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,4843,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),16,Bangladesh,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,4599,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),16,Bangladesh,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,29,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),16,Bangladesh,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,37,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),14,Barbados,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),14,Barbados,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),14,Barbados,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,32,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),14,Barbados,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,38,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),14,Barbados,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,8,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),14,Barbados,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,9,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),57,Belarus,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,1815,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),57,Belarus,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,2309,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),57,Belarus,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,533,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),57,Belarus,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,566,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),57,Belarus,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,115,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),57,Belarus,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,42,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),255,Belgium,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,1652,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),255,Belgium,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,1902,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),255,Belgium,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,5391,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),255,Belgium,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,4924,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),255,Belgium,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,2609,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),255,Belgium,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,2403,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),23,Belize,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),23,Belize,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),23,Belize,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,31,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),23,Belize,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,26,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),23,Belize,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),23,Belize,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),53,Benin,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),53,Benin,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),53,Benin,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,210,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),53,Benin,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,232,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),53,Benin,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,5,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),53,Benin,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,3,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),19,Bolivia (Plurinational State of),5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,302,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),19,Bolivia (Plurinational State of),5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,237,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),19,Bolivia (Plurinational State of),5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,495,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),19,Bolivia (Plurinational State of),5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,533,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),19,Bolivia (Plurinational State of),5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,8,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),19,Bolivia (Plurinational State of),5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,12,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),80,Bosnia and Herzegovina,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,296,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),80,Bosnia and Herzegovina,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,265,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),80,Bosnia and Herzegovina,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,454,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),80,Bosnia and Herzegovina,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,428,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),80,Bosnia and Herzegovina,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,113,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),80,Bosnia and Herzegovina,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,70,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),20,Botswana,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),20,Botswana,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),20,Botswana,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,116,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),20,Botswana,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,132,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),20,Botswana,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),20,Botswana,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,2,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),21,Brazil,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,5473,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),21,Brazil,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,5607,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),21,Brazil,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,7375,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),21,Brazil,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,7156,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),21,Brazil,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,332,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),21,Brazil,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,688,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),27,Bulgaria,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,5834,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),27,Bulgaria,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,6322,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),27,Bulgaria,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,141,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),27,Bulgaria,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,163,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),27,Bulgaria,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,4362,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),27,Bulgaria,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,5157,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),233,Burkina Faso,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),233,Burkina Faso,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),233,Burkina Faso,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,282,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),233,Burkina Faso,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,234,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),233,Burkina Faso,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),233,Burkina Faso,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),29,Burundi,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,23,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),29,Burundi,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,5,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),29,Burundi,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,91,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),29,Burundi,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,122,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),29,Burundi,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,22,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),29,Burundi,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,23,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),35,Cabo Verde,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),35,Cabo Verde,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),35,Cabo Verde,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,28,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),35,Cabo Verde,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,29,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),35,Cabo Verde,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),35,Cabo Verde,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),115,Cambodia,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),115,Cambodia,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),115,Cambodia,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,52,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),115,Cambodia,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,75,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),115,Cambodia,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),115,Cambodia,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,4,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),32,Cameroon,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,1,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),32,Cameroon,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,1,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),32,Cameroon,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,785,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),32,Cameroon,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,839,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),32,Cameroon,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,16,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),32,Cameroon,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,1,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),33,Canada,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,32216,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),33,Canada,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,32371,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),33,Canada,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1210,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),33,Canada,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,1339,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),33,Canada,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,24299,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),33,Canada,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,24198,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),37,Central African Republic,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,16,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),37,Central African Republic,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,16,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),39,Chad,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,2,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),39,Chad,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,2,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),39,Chad,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,65,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),39,Chad,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,65,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),39,Chad,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),40,Chile,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,1469,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),40,Chile,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,1400,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),40,Chile,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1367,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),40,Chile,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,1313,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),40,Chile,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,70,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),40,Chile,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,62,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),96,"China, Hong Kong SAR",5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),96,"China, Hong Kong SAR",5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),96,"China, Hong Kong SAR",5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,506,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),96,"China, Hong Kong SAR",5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,490,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),96,"China, Hong Kong SAR",5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,76,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),96,"China, Hong Kong SAR",5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,77,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),128,"China, Macao SAR",5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),128,"China, Macao SAR",5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),128,"China, Macao SAR",5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,35,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),128,"China, Macao SAR",5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,47,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),128,"China, Macao SAR",5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),128,"China, Macao SAR",5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,1,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),41,"China, mainland",5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,131441,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),41,"China, mainland",5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,133596,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),41,"China, mainland",5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,3441,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),41,"China, mainland",5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,3873,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),41,"China, mainland",5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,659,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),41,"China, mainland",5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,734,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),214,"China, Taiwan Province of",5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,31,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),214,"China, Taiwan Province of",5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,28,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),214,"China, Taiwan Province of",5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1334,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),214,"China, Taiwan Province of",5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,1447,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),214,"China, Taiwan Province of",5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,102,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),214,"China, Taiwan Province of",5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,111,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),44,Colombia,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,6,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),44,Colombia,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,6,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),44,Colombia,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1786,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),44,Colombia,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,1991,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),44,Colombia,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,64,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),44,Colombia,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,82,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),45,Comoros,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,14,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),45,Comoros,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,16,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),46,Congo,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),46,Congo,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),46,Congo,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,215,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),46,Congo,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,231,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),46,Congo,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),46,Congo,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),48,Costa Rica,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),48,Costa Rica,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),48,Costa Rica,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,323,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),48,Costa Rica,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,341,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),48,Costa Rica,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,90,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),48,Costa Rica,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,87,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),107,Côte d'Ivoire,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),107,Côte d'Ivoire,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),107,Côte d'Ivoire,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,715,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),107,Côte d'Ivoire,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,731,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),107,Côte d'Ivoire,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,125,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),107,Côte d'Ivoire,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,125,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),98,Croatia,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,744,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),98,Croatia,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,803,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),98,Croatia,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,365,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),98,Croatia,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,332,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),98,Croatia,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,586,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),98,Croatia,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,437,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),49,Cuba,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),49,Cuba,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),49,Cuba,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,727,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),49,Cuba,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,739,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),49,Cuba,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),49,Cuba,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),50,Cyprus,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,18,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),50,Cyprus,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,29,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),50,Cyprus,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,142,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),50,Cyprus,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,100,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),50,Cyprus,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,15,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),50,Cyprus,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,9,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),167,Czechia,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,4418,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),167,Czechia,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,4812,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),167,Czechia,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,514,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),167,Czechia,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,466,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),167,Czechia,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,2254,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),167,Czechia,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,2118,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),116,Democratic People's Republic of Korea,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,35,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),116,Democratic People's Republic of Korea,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,27,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),116,Democratic People's Republic of Korea,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,492,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),116,Democratic People's Republic of Korea,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,541,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),116,Democratic People's Republic of Korea,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),116,Democratic People's Republic of Korea,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),250,Democratic Republic of the Congo,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,12,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),250,Democratic Republic of the Congo,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,11,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),250,Democratic Republic of the Congo,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,428,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),250,Democratic Republic of the Congo,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,393,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),250,Democratic Republic of the Congo,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),250,Democratic Republic of the Congo,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),54,Denmark,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,2655,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),54,Denmark,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,4642,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),54,Denmark,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,684,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),54,Denmark,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,568,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),54,Denmark,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,637,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),54,Denmark,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,840,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),72,Djibouti,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),72,Djibouti,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),72,Djibouti,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,362,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),72,Djibouti,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,272,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),55,Dominica,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),55,Dominica,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),55,Dominica,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,2,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),55,Dominica,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,3,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),55,Dominica,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),55,Dominica,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),56,Dominican Republic,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),56,Dominican Republic,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),56,Dominican Republic,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,563,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),56,Dominican Republic,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,685,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),56,Dominican Republic,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,85,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),56,Dominican Republic,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,93,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),58,Ecuador,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,5,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),58,Ecuador,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,5,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),58,Ecuador,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1171,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),58,Ecuador,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,1233,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),58,Ecuador,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,8,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),58,Ecuador,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,10,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),59,Egypt,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,8349,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),59,Egypt,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,8574,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),59,Egypt,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,9356,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),59,Egypt,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,10464,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),59,Egypt,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,419,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),59,Egypt,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,1060,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),60,El Salvador,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),60,El Salvador,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),60,El Salvador,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,392,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),60,El Salvador,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,432,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),60,El Salvador,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,169,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),60,El Salvador,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,185,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),63,Estonia,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,450,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),63,Estonia,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,847,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),63,Estonia,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,80,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),63,Estonia,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,74,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),63,Estonia,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,272,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),63,Estonia,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,657,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),209,Eswatini,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,1,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),209,Eswatini,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,1,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),209,Eswatini,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,61,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),209,Eswatini,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,60,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),209,Eswatini,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),209,Eswatini,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),238,Ethiopia,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,4838,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),238,Ethiopia,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,5315,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),238,Ethiopia,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1316,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),238,Ethiopia,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,1425,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),238,Ethiopia,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,8,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),238,Ethiopia,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,4,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),66,Fiji,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),66,Fiji,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),66,Fiji,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,75,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),66,Fiji,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,183,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),66,Fiji,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,58,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),66,Fiji,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,64,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),67,Finland,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,495,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),67,Finland,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,914,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),67,Finland,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,271,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),67,Finland,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,241,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),67,Finland,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,103,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),67,Finland,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,115,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),68,France,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,35798,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),68,France,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,40605,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),68,France,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,2347,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),68,France,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,2276,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),68,France,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,20444,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),68,France,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,21458,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),70,French Polynesia,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),70,French Polynesia,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),70,French Polynesia,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,35,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),70,French Polynesia,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,27,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),70,French Polynesia,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),70,French Polynesia,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),74,Gabon,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),74,Gabon,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),74,Gabon,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,133,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),74,Gabon,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,114,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),74,Gabon,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),74,Gabon,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),75,Gambia,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),75,Gambia,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),75,Gambia,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,91,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),75,Gambia,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,77,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),75,Gambia,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),75,Gambia,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,1,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),73,Georgia,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,107,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),73,Georgia,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,101,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),73,Georgia,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,626,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),73,Georgia,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,569,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),73,Georgia,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,24,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),73,Georgia,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,4,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),79,Germany,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,20264,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),79,Germany,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,23063,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),79,Germany,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,5729,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),79,Germany,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,5237,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),79,Germany,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,8405,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),79,Germany,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,8775,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),81,Ghana,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),81,Ghana,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),81,Ghana,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,822,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),81,Ghana,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,746,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),81,Ghana,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,135,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),81,Ghana,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,142,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),84,Greece,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,1264,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),84,Greece,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,1130,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),84,Greece,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1257,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),84,Greece,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,1220,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),84,Greece,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,528,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),84,Greece,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,498,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),86,Grenada,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),86,Grenada,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),86,Grenada,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,15,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),86,Grenada,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,13,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),86,Grenada,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,6,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),86,Grenada,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,5,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),89,Guatemala,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),89,Guatemala,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),89,Guatemala,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,729,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),89,Guatemala,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,846,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),89,Guatemala,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,140,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),89,Guatemala,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,142,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),90,Guinea,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),90,Guinea,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),90,Guinea,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,428,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),90,Guinea,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,422,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),90,Guinea,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),90,Guinea,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),175,Guinea-Bissau,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,29,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),175,Guinea-Bissau,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,32,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),91,Guyana,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),91,Guyana,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),91,Guyana,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,65,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),91,Guyana,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,21,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),91,Guyana,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,3,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),91,Guyana,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,2,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),93,Haiti,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),93,Haiti,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),93,Haiti,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,392,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),93,Haiti,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,326,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),93,Haiti,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),93,Haiti,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,2,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),95,Honduras,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,1,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),95,Honduras,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,1,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),95,Honduras,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,404,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),95,Honduras,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,363,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),95,Honduras,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,60,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),95,Honduras,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,52,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),97,Hungary,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,5246,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),97,Hungary,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,5378,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),97,Hungary,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,363,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),97,Hungary,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,337,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),97,Hungary,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,2552,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),97,Hungary,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,2743,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),99,Iceland,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),99,Iceland,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),99,Iceland,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,63,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),99,Iceland,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,58,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),99,Iceland,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),99,Iceland,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),100,India,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,99870,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),100,India,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,103596,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),100,India,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,112,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),100,India,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,36,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),100,India,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,629,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),100,India,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,673,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),101,Indonesia,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),101,Indonesia,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),101,Indonesia,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,10376,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),101,Indonesia,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,11221,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),101,Indonesia,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,466,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),101,Indonesia,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,472,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),102,Iran (Islamic Republic of),5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,14521,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),102,Iran (Islamic Republic of),5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,16819,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),102,Iran (Islamic Republic of),5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,185,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),102,Iran (Islamic Republic of),5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,149,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),102,Iran (Islamic Republic of),5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,501,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),102,Iran (Islamic Republic of),5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,390,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),103,Iraq,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,2178,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),103,Iraq,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,4343,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),103,Iraq,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,4172,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),103,Iraq,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,2508,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),103,Iraq,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),103,Iraq,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,1,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),104,Ireland,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,507,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),104,Ireland,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,595,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),104,Ireland,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1120,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),104,Ireland,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,967,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),104,Ireland,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,277,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),104,Ireland,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,313,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),105,Israel,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,71,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),105,Israel,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,85,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),105,Israel,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1586,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),105,Israel,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,1339,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),105,Israel,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,40,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),105,Israel,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,47,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),106,Italy,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,6933,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),106,Italy,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,6739,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),106,Italy,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,7997,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),106,Italy,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,8045,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),106,Italy,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,4043,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),106,Italy,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,4171,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),109,Jamaica,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),109,Jamaica,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),109,Jamaica,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,221,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),109,Jamaica,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,233,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),109,Jamaica,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,15,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),109,Jamaica,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,18,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),110,Japan,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,766,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),110,Japan,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,1038,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),110,Japan,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,5981,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),110,Japan,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,5680,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),110,Japan,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,262,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),110,Japan,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,268,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),112,Jordan,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,16,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),112,Jordan,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,26,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),112,Jordan,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1199,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),112,Jordan,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,928,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),112,Jordan,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,152,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),112,Jordan,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,77,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),108,Kazakhstan,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,13944,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),108,Kazakhstan,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,11297,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),108,Kazakhstan,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,199,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),108,Kazakhstan,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,458,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),108,Kazakhstan,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,9188,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),108,Kazakhstan,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,7426,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),114,Kenya,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,337,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),114,Kenya,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,367,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),114,Kenya,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1816,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),114,Kenya,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,2029,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),114,Kenya,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,18,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),114,Kenya,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,10,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),83,Kiribati,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,5,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),83,Kiribati,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,6,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),83,Kiribati,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),118,Kuwait,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),118,Kuwait,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),118,Kuwait,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,453,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),118,Kuwait,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,660,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),118,Kuwait,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,121,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),118,Kuwait,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,117,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),113,Kyrgyzstan,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,616,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),113,Kyrgyzstan,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,601,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),113,Kyrgyzstan,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,269,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),113,Kyrgyzstan,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,358,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),113,Kyrgyzstan,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,3,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),113,Kyrgyzstan,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,4,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),120,Lao People's Democratic Republic,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),120,Lao People's Democratic Republic,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),120,Lao People's Democratic Republic,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,16,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),120,Lao People's Democratic Republic,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,9,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),120,Lao People's Democratic Republic,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),120,Lao People's Democratic Republic,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,1,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),119,Latvia,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,1432,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),119,Latvia,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,2371,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),119,Latvia,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,775,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),119,Latvia,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,535,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),119,Latvia,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1733,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),119,Latvia,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,2626,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),121,Lebanon,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,130,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),121,Lebanon,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,130,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),121,Lebanon,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,699,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),121,Lebanon,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,850,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),121,Lebanon,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,23,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),121,Lebanon,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,34,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),122,Lesotho,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,9,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),122,Lesotho,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,2,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),122,Lesotho,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,58,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),122,Lesotho,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,75,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),122,Lesotho,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,33,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),122,Lesotho,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,59,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),123,Liberia,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),123,Liberia,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),123,Liberia,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,61,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),123,Liberia,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,48,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),123,Liberia,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),123,Liberia,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),124,Libya,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,200,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),124,Libya,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,200,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),124,Libya,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1629,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),124,Libya,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,798,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),124,Libya,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),124,Libya,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),126,Lithuania,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,2839,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),126,Lithuania,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,3844,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),126,Lithuania,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,195,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),126,Lithuania,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,298,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),126,Lithuania,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,2007,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),126,Lithuania,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,3453,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),256,Luxembourg,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,78,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),256,Luxembourg,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,82,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),256,Luxembourg,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,193,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),256,Luxembourg,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,187,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),256,Luxembourg,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,176,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),256,Luxembourg,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,178,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),129,Madagascar,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,5,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),129,Madagascar,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,5,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),129,Madagascar,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,358,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),129,Madagascar,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,399,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),129,Madagascar,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),129,Madagascar,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),130,Malawi,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,1,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),130,Malawi,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,1,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),130,Malawi,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,146,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),130,Malawi,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,125,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),130,Malawi,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),130,Malawi,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),131,Malaysia,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,22,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),131,Malaysia,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,24,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),131,Malaysia,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1972,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),131,Malaysia,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,1944,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),131,Malaysia,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,508,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),131,Malaysia,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,507,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),132,Maldives,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),132,Maldives,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),132,Maldives,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,40,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),132,Maldives,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,39,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),132,Maldives,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),133,Mali,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,29,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),133,Mali,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,8,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),133,Mali,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,330,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),133,Mali,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,362,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),133,Mali,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),133,Mali,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),134,Malta,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,12,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),134,Malta,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),134,Malta,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,66,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),134,Malta,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,60,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),134,Malta,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),134,Malta,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,1,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),136,Mauritania,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,7,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),136,Mauritania,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,9,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),136,Mauritania,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,702,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),136,Mauritania,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,685,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),136,Mauritania,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),136,Mauritania,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),137,Mauritius,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),137,Mauritius,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),137,Mauritius,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,145,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),137,Mauritius,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,168,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),137,Mauritius,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,30,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),137,Mauritius,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,22,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),138,Mexico,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,2943,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),138,Mexico,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,3244,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),138,Mexico,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,5364,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),138,Mexico,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,5247,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),138,Mexico,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,2092,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),138,Mexico,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,1799,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),141,Mongolia,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,436,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),141,Mongolia,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,411,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),141,Mongolia,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,259,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),141,Mongolia,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,43,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),141,Mongolia,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),141,Mongolia,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),273,Montenegro,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,2,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),273,Montenegro,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,2,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),273,Montenegro,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,105,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),273,Montenegro,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,102,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),273,Montenegro,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),273,Montenegro,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,1,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),143,Morocco,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,7321,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),143,Morocco,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,4025,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),143,Morocco,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,3999,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),143,Morocco,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,3904,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),143,Morocco,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,39,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),143,Morocco,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,36,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),144,Mozambique,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,17,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),144,Mozambique,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,18,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),144,Mozambique,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,668,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),144,Mozambique,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,696,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),144,Mozambique,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,5,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),144,Mozambique,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,43,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),28,Myanmar,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,116,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),28,Myanmar,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,111,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),28,Myanmar,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,481,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),28,Myanmar,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,578,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),28,Myanmar,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),28,Myanmar,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,3,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),147,Namibia,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,6,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),147,Namibia,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,6,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),147,Namibia,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,139,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),147,Namibia,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,141,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),147,Namibia,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,6,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),147,Namibia,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,4,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),149,Nepal,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,1959,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),149,Nepal,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,2016,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),149,Nepal,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,128,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),149,Nepal,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,177,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),149,Nepal,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,7,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),149,Nepal,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,8,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),150,Netherlands,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,985,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),150,Netherlands,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,1131,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),150,Netherlands,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,7293,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),150,Netherlands,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,7101,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),150,Netherlands,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1541,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),150,Netherlands,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,1629,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),153,New Caledonia,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),153,New Caledonia,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),153,New Caledonia,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,39,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),153,New Caledonia,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,33,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),153,New Caledonia,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),153,New Caledonia,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),156,New Zealand,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,371,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),156,New Zealand,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,398,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),156,New Zealand,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,685,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),156,New Zealand,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,537,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),156,New Zealand,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,32,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),156,New Zealand,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,38,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),157,Nicaragua,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),157,Nicaragua,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),157,Nicaragua,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,219,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),157,Nicaragua,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,189,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),157,Nicaragua,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,11,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),157,Nicaragua,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,14,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),158,Niger,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,5,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),158,Niger,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,5,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),158,Niger,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,98,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),158,Niger,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,108,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),158,Niger,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,21,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),158,Niger,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,14,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),159,Nigeria,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,60,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),159,Nigeria,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,60,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),159,Nigeria,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,4825,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),159,Nigeria,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,4687,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),159,Nigeria,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,16,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),159,Nigeria,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,10,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),154,North Macedonia,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,241,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),154,North Macedonia,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,240,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),154,North Macedonia,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,185,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),154,North Macedonia,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,206,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),154,North Macedonia,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,55,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),154,North Macedonia,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,42,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),162,Norway,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,138,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),162,Norway,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,459,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),162,Norway,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,605,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),162,Norway,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,590,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),162,Norway,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,11,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),162,Norway,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,13,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),221,Oman,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,4,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),221,Oman,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,4,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),221,Oman,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,812,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),221,Oman,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,813,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),221,Oman,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,434,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),221,Oman,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,113,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),165,Pakistan,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,25090,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),165,Pakistan,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,24374,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),165,Pakistan,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,8,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),165,Pakistan,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,5,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),165,Pakistan,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,2227,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),165,Pakistan,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,840,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),166,Panama,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),166,Panama,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),166,Panama,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,195,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),166,Panama,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,211,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),166,Panama,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,3,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),166,Panama,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,1,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),168,Papua New Guinea,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),168,Papua New Guinea,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),168,Papua New Guinea,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,313,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),168,Papua New Guinea,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,286,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),168,Papua New Guinea,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,3,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),168,Papua New Guinea,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,2,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),169,Paraguay,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,722,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),169,Paraguay,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,1358,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),169,Paraguay,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,31,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),169,Paraguay,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,32,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),169,Paraguay,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,407,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),169,Paraguay,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,426,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),170,Peru,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,196,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),170,Peru,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,191,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),170,Peru,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,2096,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),170,Peru,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,2045,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),170,Peru,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,154,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),170,Peru,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,161,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),171,Philippines,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),171,Philippines,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),171,Philippines,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,7007,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),171,Philippines,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,7422,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),171,Philippines,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,104,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),171,Philippines,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,165,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),173,Poland,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,9638,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),173,Poland,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,10807,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),173,Poland,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1118,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),173,Poland,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,1077,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),173,Poland,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,2746,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),173,Poland,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,3127,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),174,Portugal,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,68,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),174,Portugal,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,62,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),174,Portugal,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1647,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),174,Portugal,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,1711,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),174,Portugal,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,283,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),174,Portugal,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,291,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),117,Republic of Korea,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,26,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),117,Republic of Korea,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,15,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),117,Republic of Korea,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,4140,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),117,Republic of Korea,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,4010,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),117,Republic of Korea,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,138,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),117,Republic of Korea,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,143,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),146,Republic of Moldova,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,1163,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),146,Republic of Moldova,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,1147,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),146,Republic of Moldova,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,73,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),146,Republic of Moldova,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,65,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),146,Republic of Moldova,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,508,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),146,Republic of Moldova,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,563,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),183,Romania,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,10145,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),183,Romania,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,10298,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),183,Romania,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1067,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),183,Romania,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,1262,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),183,Romania,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,5968,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),183,Romania,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,6197,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),185,Russian Federation,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,72136,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),185,Russian Federation,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,74453,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),185,Russian Federation,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,686,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),185,Russian Federation,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,555,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),185,Russian Federation,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,44639,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),185,Russian Federation,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,32669,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),184,Rwanda,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,11,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),184,Rwanda,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,16,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),184,Rwanda,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,236,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),184,Rwanda,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,213,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),184,Rwanda,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,97,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),184,Rwanda,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,90,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),188,Saint Kitts and Nevis,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,2,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),188,Saint Kitts and Nevis,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,2,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),189,Saint Lucia,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),189,Saint Lucia,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),189,Saint Lucia,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,12,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),189,Saint Lucia,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,20,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),189,Saint Lucia,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),189,Saint Lucia,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,2,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),191,Saint Vincent and the Grenadines,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),191,Saint Vincent and the Grenadines,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),191,Saint Vincent and the Grenadines,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,24,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),191,Saint Vincent and the Grenadines,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,27,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),191,Saint Vincent and the Grenadines,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,15,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),191,Saint Vincent and the Grenadines,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,15,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),244,Samoa,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,14,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),244,Samoa,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,16,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),244,Samoa,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),244,Samoa,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),193,Sao Tome and Principe,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,10,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),193,Sao Tome and Principe,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,11,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),194,Saudi Arabia,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,518,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),194,Saudi Arabia,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,534,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),194,Saudi Arabia,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1366,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),194,Saudi Arabia,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,3578,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),194,Saudi Arabia,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,188,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),194,Saudi Arabia,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,208,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),195,Senegal,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),195,Senegal,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),195,Senegal,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,679,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),195,Senegal,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,773,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),195,Senegal,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,36,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),195,Senegal,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,30,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),272,Serbia,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,2942,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),272,Serbia,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,2535,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),272,Serbia,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,48,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),272,Serbia,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,66,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),272,Serbia,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1414,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),272,Serbia,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,599,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),196,Seychelles,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),196,Seychelles,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),196,Seychelles,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,8,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),196,Seychelles,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,9,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),196,Seychelles,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),197,Sierra Leone,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),197,Sierra Leone,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),197,Sierra Leone,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,91,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),197,Sierra Leone,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,93,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),197,Sierra Leone,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),197,Sierra Leone,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),199,Slovakia,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,1928,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),199,Slovakia,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,1939,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),199,Slovakia,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,301,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),199,Slovakia,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,344,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),199,Slovakia,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1101,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),199,Slovakia,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,1048,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),198,Slovenia,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,122,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),198,Slovenia,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,140,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),198,Slovenia,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,492,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),198,Slovenia,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,336,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),198,Slovenia,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,341,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),198,Slovenia,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,160,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),25,Solomon Islands,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),25,Solomon Islands,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),25,Solomon Islands,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,23,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),25,Solomon Islands,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,25,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),25,Solomon Islands,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),202,South Africa,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,1926,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),202,South Africa,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,1593,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),202,South Africa,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,2106,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),202,South Africa,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,2009,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),202,South Africa,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,258,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),202,South Africa,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,307,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),203,Spain,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,8027,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),203,Spain,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,6086,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),203,Spain,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,6811,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),203,Spain,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,6042,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),203,Spain,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1634,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),203,Spain,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,1909,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),38,Sri Lanka,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),38,Sri Lanka,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),38,Sri Lanka,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1195,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),38,Sri Lanka,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,987,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),38,Sri Lanka,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,73,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),38,Sri Lanka,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,73,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),276,Sudan,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,702,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),276,Sudan,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,726,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),276,Sudan,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,2551,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),276,Sudan,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,2156,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),276,Sudan,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,11,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),276,Sudan,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,7,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),207,Suriname,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),207,Suriname,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),207,Suriname,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,41,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),207,Suriname,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,38,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),207,Suriname,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),207,Suriname,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),210,Sweden,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,1620,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),210,Sweden,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,3477,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),210,Sweden,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,624,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),210,Sweden,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,628,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),210,Sweden,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,660,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),210,Sweden,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,907,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),211,Switzerland,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,497,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),211,Switzerland,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,497,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),211,Switzerland,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,674,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),211,Switzerland,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,647,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),211,Switzerland,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,78,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),211,Switzerland,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,78,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),212,Syrian Arab Republic,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,1223,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),212,Syrian Arab Republic,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,3085,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),212,Syrian Arab Republic,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,604,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),212,Syrian Arab Republic,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,917,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),212,Syrian Arab Republic,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,4,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),212,Syrian Arab Republic,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,5,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),208,Tajikistan,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,779,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),208,Tajikistan,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,837,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),208,Tajikistan,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1133,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),208,Tajikistan,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,1198,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),208,Tajikistan,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),208,Tajikistan,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),216,Thailand,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,1,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),216,Thailand,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,1,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),216,Thailand,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,3259,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),216,Thailand,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,3019,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),216,Thailand,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,312,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),216,Thailand,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,291,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),176,Timor-Leste,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,23,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),176,Timor-Leste,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,21,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),176,Timor-Leste,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),176,Timor-Leste,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),217,Togo,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),217,Togo,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),217,Togo,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,148,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),217,Togo,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,142,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),217,Togo,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,15,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),217,Togo,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,12,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),220,Trinidad and Tobago,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,5,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),220,Trinidad and Tobago,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,9,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),220,Trinidad and Tobago,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,153,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),220,Trinidad and Tobago,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,133,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),220,Trinidad and Tobago,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,18,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),220,Trinidad and Tobago,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,30,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),222,Tunisia,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,1075,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),222,Tunisia,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,1440,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),222,Tunisia,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1845,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),222,Tunisia,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,1853,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),222,Tunisia,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,107,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),222,Tunisia,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,158,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),223,Turkey,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,20000,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),223,Turkey,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,19000,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),223,Turkey,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,5844,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),223,Turkey,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,10081,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),223,Turkey,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,6508,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),223,Turkey,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,6643,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),213,Turkmenistan,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,1000,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),213,Turkmenistan,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,1500,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),213,Turkmenistan,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,355,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),213,Turkmenistan,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,298,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),213,Turkmenistan,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,30,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),213,Turkmenistan,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),226,Uganda,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,23,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),226,Uganda,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,20,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),226,Uganda,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,669,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),226,Uganda,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,472,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),226,Uganda,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,61,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),226,Uganda,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,55,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),230,Ukraine,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,24653,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),230,Ukraine,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,28370,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),230,Ukraine,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,111,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),230,Ukraine,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,139,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),230,Ukraine,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,16915,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),230,Ukraine,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,20519,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),225,United Arab Emirates,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),225,United Arab Emirates,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),225,United Arab Emirates,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1541,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),225,United Arab Emirates,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,1599,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),225,United Arab Emirates,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,365,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),225,United Arab Emirates,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,417,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),229,United Kingdom of Great Britain and Northern Ireland,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,13555,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),229,United Kingdom of Great Britain and Northern Ireland,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,16225,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),229,United Kingdom of Great Britain and Northern Ireland,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,3422,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),229,United Kingdom of Great Britain and Northern Ireland,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,2521,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),229,United Kingdom of Great Britain and Northern Ireland,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,1049,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),229,United Kingdom of Great Britain and Northern Ireland,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,1714,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),215,United Republic of Tanzania,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,57,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),215,United Republic of Tanzania,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,63,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),215,United Republic of Tanzania,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,67,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),215,United Republic of Tanzania,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,955,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),215,United Republic of Tanzania,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,53,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),215,United Republic of Tanzania,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,44,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),231,United States of America,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,51410,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),231,United States of America,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,52367,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),231,United States of America,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,5978,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),231,United States of America,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,4817,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),231,United States of America,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,23925,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),231,United States of America,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,28474,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),234,Uruguay,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,440,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),234,Uruguay,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,728,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),234,Uruguay,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,39,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),234,Uruguay,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,41,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),234,Uruguay,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,72,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),234,Uruguay,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,323,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),235,Uzbekistan,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,5411,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),235,Uzbekistan,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,6093,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),235,Uzbekistan,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,3092,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),235,Uzbekistan,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,2787,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),235,Uzbekistan,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,507,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),235,Uzbekistan,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,646,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),155,Vanuatu,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,12,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),155,Vanuatu,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,13,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),155,Vanuatu,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),155,Vanuatu,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),236,Venezuela (Bolivarian Republic of),5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,1,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),236,Venezuela (Bolivarian Republic of),5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,1,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),236,Venezuela (Bolivarian Republic of),5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,698,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),236,Venezuela (Bolivarian Republic of),5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,838,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),236,Venezuela (Bolivarian Republic of),5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),236,Venezuela (Bolivarian Republic of),5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),237,Viet Nam,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),237,Viet Nam,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,0,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),237,Viet Nam,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,3838,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),237,Viet Nam,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,2893,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),237,Viet Nam,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,409,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),237,Viet Nam,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,299,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),249,Yemen,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,92,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),249,Yemen,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,100,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),249,Yemen,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,3266,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),249,Yemen,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,3288,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),249,Yemen,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,87,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),249,Yemen,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,121,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),251,Zambia,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,114,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),251,Zambia,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,152,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),251,Zambia,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,54,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),251,Zambia,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,44,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),251,Zambia,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,17,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),251,Zambia,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,62,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),181,Zimbabwe,5511,Production,2511,Wheat and products,2018,2018,1000 tonnes,45,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),181,Zimbabwe,5511,Production,2511,Wheat and products,2019,2019,1000 tonnes,80,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),181,Zimbabwe,5611,Import Quantity,2511,Wheat and products,2018,2018,1000 tonnes,307,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),181,Zimbabwe,5611,Import Quantity,2511,Wheat and products,2019,2019,1000 tonnes,138,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),181,Zimbabwe,5911,Export Quantity,2511,Wheat and products,2018,2018,1000 tonnes,3,Im,FAO data based on imputation methodology
+FBS,Food Balances (2010-),181,Zimbabwe,5911,Export Quantity,2511,Wheat and products,2019,2019,1000 tonnes,5,Im,FAO data based on imputation methodology
